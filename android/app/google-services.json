@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "493063237095",
+    "firebase_url": "https://final-mobile-fb4a0-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "final-mobile-fb4a0",
+    "storage_bucket": "final-mobile-fb4a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493063237095:android:d166037ac863aff78b2142",
+        "android_client_info": {
+          "package_name": "com.example.tiligrim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493063237095-mkim0qgo2kqumdlnf4o0h89f7sl1hpjm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tiligrim",
+            "certificate_hash": "3aa252ddc7996f23d6295555c79af4ab41fd26b0"
+          }
+        },
+        {
+          "client_id": "493063237095-j2jpvjijdnijcg8hhfr5j068aeeuvgj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANdSXC7DydkDyPdhbHTuYLRDg0d6-bbEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493063237095-8emjorhmktopkm2coo7tpk22gmt9qnge.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "493063237095-p57cjv7muogju7mplg518n31pufhjurg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tiligrim"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
